@@ -7,7 +7,6 @@ cd SI_2024_lab1_223017 vlegov vo nego, i so git init go inicializirav.
 6. So git nano kreirav datoteka README.md i potoa ja dodadov na remote repozitoriumot
 so git add . i git commit -m "initial commit".
 7. Gi prevzemav fajlovite i so mv Downloads/SILabMain.java SI_2024_lab1_223017/
-<<<<<<< HEAD
 (soodvetno za sekoj) gi dodadov vo lokalniot repozitorium i potoa git add .
 i git commit -m "Add starter code" .
 8. Gi sinhronizirav so oddaleceniot repozitorium so naredbata git pull i potoa git push.
@@ -27,5 +26,16 @@ Na kraj i napraviv git pull pa git push origin bug2.
 18. Gi sinhronizirav grankite so remote repo so naredbata git push origin bug1 i
 git push origin bug2.
 19. So git checkout master se vrativ na master grankata.
-20. 
+20. So git megre bug1 ja spoiv grankata bug1 so master.
+21. Gi sinhronizirav site granki so naredbata git push --all
+22. Se prefrliv na grankata bug2.
+23. Napraviv git rebase master no se javi konflikt koj go resiv i prodolziv so 
+git rebase --continue 
+24. Se prefrliv na master.
+25. Napraviv git merge bug2.
+26. Singronizirav so git push --all --force
+27. -||-
+28. Dodadov datoteka logs.txt so touch logs.txt i gi dodadov dosegasnite logs.
+Datotekata 223017.txt prvicno ja kreirav ovde i site promeni gi dodavav so nano 223017.txt.
+29. Gi singronizirav so git push --all
 
