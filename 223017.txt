@@ -4,4 +4,6 @@
 4. So git clone go klonirav vo lokalen repozitorium so isto ime i so 
 cd SI_2024_lab1_223017 vlegov vo nego, i so git init go inicializirav.
 5. So naredbata git clone avtomatski se povrzuva.
-6.  
+6. So git nano kreirav datoteka README.md i potoa ja dodadov na remote repozitoriumot
+so git add . i git commit -m "initial commit".
+7.  
