@@ -1,0 +1,7 @@
+1. Instalirav git i kreirav profil na Github (gj-web)
+2. Go promeniv imeto na glavnata granka vo master.
+3. Kreirav pivaten remote repozitorium SI_2024_lab1_223017.
+4. So git clone go klonirav vo lokalen repozitorium so isto ime i so 
+cd SI_2024_lab1_223017 vlegov vo nego, i so git init go inicializirav.
+5. So naredbata git clone avtomatski se povrzuva.
+6.  
