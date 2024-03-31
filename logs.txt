@@ -1,0 +1,61 @@
+$ git log
+commit fc5f0ce68ca5c021b7931fdef9befe748a8bdc3e (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 20:20:14 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 0af6ea751308798a4eab0ba985ea05d3e757185e
+Merge: acb28ab 8d99c20
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 21:19:26 2024 +0200
+
+    Add text
+
+commit acb28aba54ca9c3dc4036c55bf7fbefbf4214633
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 21:13:59 2024 +0200
+
+    add text
+
+commit 8d99c209b22053e027f49f59142a24fa5c99beb8 (origin/bug1, bug1)
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 20:51:27 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit a5b78c11fef135458819301733d5e0c490e4af14
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 20:44:08 2024 +0200
+
+    add text
+
+commit c0a6f9bd78a130480f1f921e5ab252433e15859b
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 20:29:59 2024 +0200
+
+    Add txt
+
+commit 942947e6093d62f9345a401e7a1dd9a54d3e9d18
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 20:09:05 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings.
+
+commit 20bfa76feae304eaaa3157187c92af3241bdef02
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 19:42:04 2024 +0200
+
+    Add starter code
+
+commit 347380d46bec09303c119a436f1c77c6ac6bfcf3
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 19:10:45 2024 +0200
+
+    Initial commit
+
+commit a28cc5f5b2c498e14f380eb1f12a955ee0bf9baf
+Author: Eva Gjorgjova <gj.eva33@yahoo.com>
+Date:   Sun Mar 31 19:06:07 2024 +0200
+
+    Initial commit
