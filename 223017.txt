@@ -6,4 +6,18 @@ cd SI_2024_lab1_223017 vlegov vo nego, i so git init go inicializirav.
 5. So naredbata git clone avtomatski se povrzuva so remote repo.
 6. So git nano kreirav datoteka README.md i potoa ja dodadov na remote repozitoriumot
 so git add . i git commit -m "initial commit".
-7.  
+7. Gi prevzemav fajlovite i so mv Downloads/SILabMain.java SI_2024_lab1_223017/
+(soodvetno za sekoj) gi dodadov vo lokalniot repozitorium i potoa git add .
+i git commit -m "Add starter code" .
+8. Gi sinhronizirav so oddaleceniot repozitorium so naredbata git pull i potoa git push.
+9. Otvoriv 2 granki so git branch bug1 i git branch bug2
+10. Se prefrliv na grankata bug1 so git checkout bug1.
+11. Vlegov vo fajlot so komandata nano i ja popraviv greskata,
+potoa napraviv git add . i git commit -m "Fix wrong condition in filterOddLengthStrings". 
+Na kraj i napraviv git pull pa git push origin bug1.
+12. Se prefrliv na grankata bug2 so git checkout bug2
+13. Vlegov vo fajlot so komandata nano i ja popraviv greskata,
+ potoa napraviv git add . i git commit -m "Fix wrong condition in makeBigStringFrom". 
+Na kraj i napraviv git pull pa git push origin bug2.
+14. Povtorno se vrativ na grankata bug1 so git checkout bug1.
+15. 
