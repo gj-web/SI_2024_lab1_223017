@@ -7,6 +7,7 @@ cd SI_2024_lab1_223017 vlegov vo nego, i so git init go inicializirav.
 6. So git nano kreirav datoteka README.md i potoa ja dodadov na remote repozitoriumot
 so git add . i git commit -m "initial commit".
 7. Gi prevzemav fajlovite i so mv Downloads/SILabMain.java SI_2024_lab1_223017/
+<<<<<<< HEAD
 (soodvetno za sekoj) gi dodadov vo lokalniot repozitorium i potoa git add .
 i git commit -m "Add starter code" .
 8. Gi sinhronizirav so oddaleceniot repozitorium so naredbata git pull i potoa git push.
@@ -27,3 +28,4 @@ Na kraj i napraviv git pull pa git push origin bug2.
 git push origin bug2.
 19. So git checkout master se vrativ na master grankata.
 20. 
+
