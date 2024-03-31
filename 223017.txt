@@ -20,4 +20,10 @@ Na kraj i napraviv git pull pa git push origin bug1.
  potoa napraviv git add . i git commit -m "Fix wrong condition in makeBigStringFrom". 
 Na kraj i napraviv git pull pa git push origin bug2.
 14. Povtorno se vrativ na grankata bug1 so git checkout bug1.
-15. 
+15. So nano SILab1Main.java vlegov vo fajlot i gi napraviv potrebnite promeni.
+16. Se vrativ na grankata bug2 so git checkout bug2.
+17. So nano SILab1Main.java vlegov vo fajlot i gi napraviv potrebnite promeni.  
+18. Gi sinhronizirav grankite so remote repo so naredbata git push origin bug1 i
+git push origin bug2.
+19. So git checkout master se vrativ na master grankata.
+20. 
